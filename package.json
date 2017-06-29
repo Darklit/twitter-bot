@@ -1,0 +1,21 @@
+{
+  "name": "twitter_bot",
+  "version": "0.1.0",
+  "description": "A twitter bot to have fun with",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/Darklit/twitter-bot.git"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "Darklit",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
